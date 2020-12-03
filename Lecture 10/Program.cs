@@ -1,4 +1,8 @@
-﻿using System;
+﻿/// Week 10		Lab 
+/// File Name: Program.cs
+/// @author: Antonio Monteiro
+
+using System;
 
 namespace Lecture_10 {
 
